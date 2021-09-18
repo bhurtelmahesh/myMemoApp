@@ -1,0 +1,30 @@
+h1, h2 {
+    text-align: center;
+    font-family: Raleway;
+}
+*{
+    background-color: rgb(35, 255, 255);
+    font-family: Raleway;
+}
+#content {
+    margin-top: 40px;
+    font-family: Raleway;
+}
+.remove-tweet, .remove-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: rgb(255,10, 10);
+    text-shadow: 2px 2px 2px 2px white;
+    font-weight: bold;
+}
+.button .button-primary{
+    background-color: chartreuse;
+}
+removeBtn{
+    font-style: normal;
+}
+li{
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+}
